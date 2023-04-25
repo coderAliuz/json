@@ -1,0 +1,184 @@
+{
+    "success": true,
+    "data": {
+        "current_page": 1,
+        "data": [
+            {
+                "id": 31684439,
+                "company_name": "GULISTON TUMANI 16-SONLI UMUMIY O'RTA TA'LIM MAKTABI",
+                "company_tin": "203338496",
+                "position_name": "\u0410\u043c\u0430\u043b\u0438\u0439 \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0442\u0438\u043a\u0430 \u0431\u045e\u0439\u0438\u0447\u0430 \u043c\u0443\u0442\u0430\u0445\u0430\u0441\u0441\u0438\u0441",
+                "position_name_ru": "\u0421\u043f\u0435\u0446\u0438\u0430\u043b\u0438\u0441\u0442 \u043f\u0440\u0438\u043a\u043b\u0430\u0434\u043d\u043e\u0439 \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0442\u0438\u043a\u0438",
+                "position_salary": "12768.78",
+                "structure_name": "Bo\u2018linma mavjud emas",
+                "structure_name_ru": "\u0411\u0435\u0437 \u043f\u043e\u0434\u0440\u0430\u0437\u0434\u0435\u043b\u0435\u043d\u0438\u044f",
+                "position_mark_surcharge": false,
+                "date_start": "2023-02-20",
+                "company_soato_code": "1724220820",
+                "company_soato_code4": "1724",
+                "company_soato_code7": "1724220",
+                "region": {
+                    "name_uz_ln": "Sirdaryo viloyati",
+                    "name_uz_cl": "\u0421\u0438\u0440\u0434\u0430\u0440\u0451 \u0432\u0438\u043b\u043e\u044f\u0442\u0438",
+                    "name_ru": "\u0421\u044b\u0440\u0434\u0430\u0440\u044c\u0438\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+                    "soato": "1724"
+                },
+                "district": {
+                    "name_uz_ln": "Guliston tumani",
+                    "name_uz_cl": "\u0413\u0443\u043b\u0438\u0441\u0442\u043e\u043d \u0442\u0443\u043c\u0430\u043d\u0438",
+                    "name_ru": "\u0413\u0443\u043b\u0438\u0441\u0442\u0430\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+                    "soato": "1724220"
+                },
+                "detail": {
+                    "id": 816080,
+                    "vacancy_id": 31684439,
+                    "view_count": 23,
+                    "created_at": "2023-02-21T08:48:23.000000Z",
+                    "updated_at": "2023-04-14T10:48:47.000000Z",
+                    "vouchers_count": 0
+                }
+            },
+            {
+                "id": 31631073,
+                "company_name": "\"USMAN HIGH TECH SERVICE\" XUSUSIY KORXONA",
+                "company_tin": "302463159",
+                "position_name": "\u0414\u0430\u0441\u0442\u0443\u0440\u043b\u043e\u0432\u0447\u0438",
+                "position_name_ru": "\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0441\u0442",
+                "position_salary": "680000.00",
+                "structure_name": "Bo\u2018linma mavjud emas",
+                "structure_name_ru": "\u0411\u0435\u0437 \u043f\u043e\u0434\u0440\u0430\u0437\u0434\u0435\u043b\u0435\u043d\u0438\u044f",
+                "position_mark_surcharge": null,
+                "date_start": "2023-02-16",
+                "company_soato_code": "1724401",
+                "company_soato_code4": "1724",
+                "company_soato_code7": "1724401",
+                "region": {
+                    "name_uz_ln": "Sirdaryo viloyati",
+                    "name_uz_cl": "\u0421\u0438\u0440\u0434\u0430\u0440\u0451 \u0432\u0438\u043b\u043e\u044f\u0442\u0438",
+                    "name_ru": "\u0421\u044b\u0440\u0434\u0430\u0440\u044c\u0438\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+                    "soato": "1724"
+                },
+                "district": {
+                    "name_uz_ln": "Guliston",
+                    "name_uz_cl": "\u0413\u0443\u043b\u0438\u0441\u0442\u043e\u043d",
+                    "name_ru": "\u0413\u0443\u043b\u0438\u0441\u0442\u0430\u043d",
+                    "soato": "1724401"
+                },
+                "detail": {
+                    "id": 816053,
+                    "vacancy_id": 31631073,
+                    "view_count": 21,
+                    "created_at": "2023-02-21T08:39:22.000000Z",
+                    "updated_at": "2023-03-31T03:49:09.000000Z",
+                    "vouchers_count": 0
+                }
+            },
+            {
+                "id": 32601495,
+                "company_name": "O'ZBEKISTON MUDOFASIGA KO'MAKLASHIVCHI \"VATANPARVAR\" TASHKILOTI OQOLTIN TUMAN KENGASH TASARUFIDAGI O'QUV SPORT TEXNIK KLUBI",
+                "company_tin": "205806173",
+                "position_name": "\u0410\u043c\u0430\u043b\u0438\u0439 \u043c\u0430\u0448\u049b \u0443\u0441\u0442\u0430\u0441\u0438",
+                "position_name_ru": "\u0421\u043f\u0435\u0446\u0438\u0430\u043b\u0438\u0441\u0442 \u043f\u0440\u0438\u043a\u043b\u0430\u0434\u043d\u043e\u0439 \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0442\u0438\u043a\u0438",
+                "position_salary": null,
+                "structure_name": "Bo\u2018linma mavjud emas",
+                "structure_name_ru": "\u0411\u0435\u0437 \u043f\u043e\u0434\u0440\u0430\u0437\u0434\u0435\u043b\u0435\u043d\u0438\u044f",
+                "position_mark_surcharge": false,
+                "date_start": "2023-04-04",
+                "company_soato_code": "1724206",
+                "company_soato_code4": "1724",
+                "company_soato_code7": "1724206",
+                "region": {
+                    "name_uz_ln": "Sirdaryo viloyati",
+                    "name_uz_cl": "\u0421\u0438\u0440\u0434\u0430\u0440\u0451 \u0432\u0438\u043b\u043e\u044f\u0442\u0438",
+                    "name_ru": "\u0421\u044b\u0440\u0434\u0430\u0440\u044c\u0438\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+                    "soato": "1724"
+                },
+                "district": {
+                    "name_uz_ln": "Oqoltin tumani",
+                    "name_uz_cl": "\u041e\u049b\u043e\u043b\u0442\u0438\u043d \u0442\u0443\u043c\u0430\u043d\u0438",
+                    "name_ru": "\u0410\u043a\u0430\u043b\u0442\u044b\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+                    "soato": "1724206"
+                },
+                "detail": null
+            },
+            {
+                "id": 32601529,
+                "company_name": "O'ZBEKISTON MUDOFASIGA KO'MAKLASHIVCHI \"VATANPARVAR\" TASHKILOTI OQOLTIN TUMAN KENGASH TASARUFIDAGI O'QUV SPORT TEXNIK KLUBI",
+                "company_tin": "205806173",
+                "position_name": "\u0410\u043c\u0430\u043b\u0438\u0439 \u043c\u0430\u0448\u049b \u0443\u0441\u0442\u0430\u0441\u0438",
+                "position_name_ru": "\u0421\u043f\u0435\u0446\u0438\u0430\u043b\u0438\u0441\u0442 \u043f\u0440\u0438\u043a\u043b\u0430\u0434\u043d\u043e\u0439 \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0442\u0438\u043a\u0438",
+                "position_salary": null,
+                "structure_name": "Bo\u2018linma mavjud emas",
+                "structure_name_ru": "\u0411\u0435\u0437 \u043f\u043e\u0434\u0440\u0430\u0437\u0434\u0435\u043b\u0435\u043d\u0438\u044f",
+                "position_mark_surcharge": false,
+                "date_start": "2023-04-04",
+                "company_soato_code": "1724206",
+                "company_soato_code4": "1724",
+                "company_soato_code7": "1724206",
+                "region": {
+                    "name_uz_ln": "Sirdaryo viloyati",
+                    "name_uz_cl": "\u0421\u0438\u0440\u0434\u0430\u0440\u0451 \u0432\u0438\u043b\u043e\u044f\u0442\u0438",
+                    "name_ru": "\u0421\u044b\u0440\u0434\u0430\u0440\u044c\u0438\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+                    "soato": "1724"
+                },
+                "district": {
+                    "name_uz_ln": "Oqoltin tumani",
+                    "name_uz_cl": "\u041e\u049b\u043e\u043b\u0442\u0438\u043d \u0442\u0443\u043c\u0430\u043d\u0438",
+                    "name_ru": "\u0410\u043a\u0430\u043b\u0442\u044b\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+                    "soato": "1724206"
+                },
+                "detail": {
+                    "id": 915853,
+                    "vacancy_id": 32601529,
+                    "view_count": 1,
+                    "created_at": "2023-04-10T14:23:40.000000Z",
+                    "updated_at": "2023-04-10T14:23:40.000000Z",
+                    "vouchers_count": 0
+                }
+            },
+            {
+                "id": 32485982,
+                "company_name": "\"XOVOS TUMANI AXBOROT-KUTUBXONA MARKAZI\" DAVLAT MUASSASASI",
+                "company_tin": "306674462",
+                "position_name": "\u0410\u0445\u0431\u043e\u0440\u043e\u0442 \u0442\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u044f\u043b\u0430\u0440\u0438 \u043c\u0443\u0442\u0430\u0445\u0430\u0441\u0441\u0438\u0441",
+                "position_name_ru": "\u0421\u043f\u0435\u0446\u0438\u0430\u043b\u0438\u0441\u0442 \u043f\u043e \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u043e\u043d\u043d\u044b\u043c \u0442\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u044f\u043c",
+                "position_salary": "286614.25",
+                "structure_name": "Axborot - komunikatsiya texnalogiyalari va raqamlashtirish",
+                "structure_name_ru": null,
+                "position_mark_surcharge": true,
+                "date_start": "2023-03-30",
+                "company_soato_code": "1724235",
+                "company_soato_code4": "1724",
+                "company_soato_code7": "1724235",
+                "region": {
+                    "name_uz_ln": "Sirdaryo viloyati",
+                    "name_uz_cl": "\u0421\u0438\u0440\u0434\u0430\u0440\u0451 \u0432\u0438\u043b\u043e\u044f\u0442\u0438",
+                    "name_ru": "\u0421\u044b\u0440\u0434\u0430\u0440\u044c\u0438\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+                    "soato": "1724"
+                },
+                "district": {
+                    "name_uz_ln": "Xovos tumani",
+                    "name_uz_cl": "\u0425\u043e\u0432\u043e\u0441 \u0442\u0443\u043c\u0430\u043d\u0438",
+                    "name_ru": "\u0425\u0430\u0432\u0430\u0441\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+                    "soato": "1724235"
+                },
+                "detail": {
+                    "id": 893443,
+                    "vacancy_id": 32485982,
+                    "view_count": 3,
+                    "created_at": "2023-03-30T11:27:43.000000Z",
+                    "updated_at": "2023-04-10T14:24:40.000000Z",
+                    "vouchers_count": 0
+                }
+            }
+        ],
+        "first_page_url": "http://ish-api.mintrud.local/api/v1/vacancies?page=1",
+        "from": 1,
+        "next_page_url": "http://ish-api.mintrud.local/api/v1/vacancies?page=2",
+        "path": "http://ish-api.mintrud.local/api/v1/vacancies",
+        "per_page": 5,
+        "prev_page_url": null,
+        "to": 5
+    },
+    "message": "ok"
+}
